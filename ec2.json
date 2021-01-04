@@ -2,7 +2,7 @@
   "App": "Go-chaos test, this is a test for EC2 instances",
   "Cloud": {
     "Kind": "EC2",
-    "Region" : "us-west-2"
+    "Region" : "us-east-1"
   },
   "Config": {
     "Tag": "env:prod",
