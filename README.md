@@ -12,6 +12,6 @@ terraform apply
 Once the infrastructure is created you can start the chaos engineering test with go chaos 
 
 ```
-go chaos template ec2.json
+go-chaos template ec2.json
 ```
 
